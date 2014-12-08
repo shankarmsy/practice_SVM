@@ -4,4 +4,4 @@ This is my repo for practicing, learning and demonstrating concepts with Classif
 
 Feel free to use this for your own reference or learning. Just clone the repo or download the .ipynb files. The IPython notebooks can also be viewed online below:
 
-[Classification using SVM in scikit-learn](http://nbviewer.ipython.org/github/shankarmsy/practice_SVC/blob/master/SVC%20with%20scikit-learn.ipynb)
+[Classification using SVM in scikit-learn](http://nbviewer.ipython.org/github/shankarmsy/practice_SVM/blob/master/SVC%20with%20scikit-learn.ipynb)
